@@ -4,3 +4,4 @@ df = pd.DataFrame(data)
 print("Продажі по містах (тимчасова версія):")
 print(df)
 
+
